@@ -10,6 +10,7 @@ ${ITEM_NAME} =  mercedes
 ${ITEM_NUMBER} =  3
 *** Test Cases ***
 User can view the landing page
+    [Documentation]
     [Tags]  Test1
     AllegroApp.Go to landing page
 
