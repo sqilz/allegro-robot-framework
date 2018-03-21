@@ -22,5 +22,3 @@ Pick an item from results
     Search for an "item"  ${item_name}
     SearchResults.Verify "Search Results" page loaded
     SearchResults.Pick  ${item_number}
-
-    #

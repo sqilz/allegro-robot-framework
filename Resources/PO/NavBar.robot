@@ -11,5 +11,8 @@ Search box is loaded
 
 Search
     [Arguments]  ${item}
-    input text  ${NAVIGATION_BAR_SEARCH_BOX}  ${item}
+    Input Text  ${NAVIGATION_BAR_SEARCH_BOX}  ${item}
     click element  ${SEARCH_BUTTON}
+    #TODO add new stuff
+
+

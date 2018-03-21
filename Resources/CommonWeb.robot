@@ -11,4 +11,3 @@ Start Web Test
     maximize browser window
 End Web Test
     close all browsers
-
